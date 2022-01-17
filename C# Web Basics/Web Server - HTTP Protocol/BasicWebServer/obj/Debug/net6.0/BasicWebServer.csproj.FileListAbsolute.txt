@@ -1,0 +1,15 @@
+C:\Users\Venci\source\repos\BasicWebServer\BasicWebServer\bin\Debug\net6.0\BasicWebServer.exe
+C:\Users\Venci\source\repos\BasicWebServer\BasicWebServer\bin\Debug\net6.0\BasicWebServer.deps.json
+C:\Users\Venci\source\repos\BasicWebServer\BasicWebServer\bin\Debug\net6.0\BasicWebServer.runtimeconfig.json
+C:\Users\Venci\source\repos\BasicWebServer\BasicWebServer\bin\Debug\net6.0\BasicWebServer.dll
+C:\Users\Venci\source\repos\BasicWebServer\BasicWebServer\bin\Debug\net6.0\ref\BasicWebServer.dll
+C:\Users\Venci\source\repos\BasicWebServer\BasicWebServer\bin\Debug\net6.0\BasicWebServer.pdb
+C:\Users\Venci\source\repos\BasicWebServer\BasicWebServer\obj\Debug\net6.0\BasicWebServer.csproj.AssemblyReference.cache
+C:\Users\Venci\source\repos\BasicWebServer\BasicWebServer\obj\Debug\net6.0\BasicWebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venci\source\repos\BasicWebServer\BasicWebServer\obj\Debug\net6.0\BasicWebServer.AssemblyInfoInputs.cache
+C:\Users\Venci\source\repos\BasicWebServer\BasicWebServer\obj\Debug\net6.0\BasicWebServer.AssemblyInfo.cs
+C:\Users\Venci\source\repos\BasicWebServer\BasicWebServer\obj\Debug\net6.0\BasicWebServer.csproj.CoreCompileInputs.cache
+C:\Users\Venci\source\repos\BasicWebServer\BasicWebServer\obj\Debug\net6.0\BasicWebServer.dll
+C:\Users\Venci\source\repos\BasicWebServer\BasicWebServer\obj\Debug\net6.0\ref\BasicWebServer.dll
+C:\Users\Venci\source\repos\BasicWebServer\BasicWebServer\obj\Debug\net6.0\BasicWebServer.pdb
+C:\Users\Venci\source\repos\BasicWebServer\BasicWebServer\obj\Debug\net6.0\BasicWebServer.genruntimeconfig.cache
