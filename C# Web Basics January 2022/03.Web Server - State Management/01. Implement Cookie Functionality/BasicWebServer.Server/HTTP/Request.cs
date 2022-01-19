@@ -14,8 +14,6 @@ namespace BasicWebServer.Server.HTTP
 
         public string Body { get; private set; }
 
-        public Session Session { get; private set; }
-
         public IReadOnlyDictionary<string, string> Form { get; private set; }
 
         public static Request Parse(string request)
@@ -31,8 +29,6 @@ namespace BasicWebServer.Server.HTTP
 
             var cookies = ParseCookies(headers);
 
-            var session = GetSession(cookies);
-
             var bodyLines = lines.Skip(headers.Count + 2).ToArray();
 
             var body = string.Join("\r\n", bodyLines);
@@ -46,7 +42,6 @@ namespace BasicWebServer.Server.HTTP
                 Headers = headers,
                 Cookies = cookies,
                 Body = body,
-                Session = session,
                 Form = form
             };
         }
