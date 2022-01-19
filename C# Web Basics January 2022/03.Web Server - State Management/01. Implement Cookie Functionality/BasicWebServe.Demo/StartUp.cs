@@ -76,7 +76,7 @@ namespace BasicWebServer.Demo
             await File.WriteAllTextAsync(fileName, responsesString);
         }
 
-        public static void AddCookiesAction(Request request, Response response)
+        private static void AddCookiesAction(Request request, Response response)
         {
             var requestHasCookies = request.Cookies.Any();
             var bodyText = "";
